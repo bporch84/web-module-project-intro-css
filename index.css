@@ -46,3 +46,45 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+/* Reset Ends Here */
+
+
+/* Body */
+body {
+    font-family: 'Roboto Mono', monospace;
+}
+
+
+/* Nav Links Pseudo-Selectors */
+nav ul li:nth-child(1) {
+    background-color: #FF764E;
+}
+
+nav ul li:nth-child(2) {
+    background-color: #5ED3EB;
+}
+
+nav ul li:nth-child(3) {
+    background-color: #FFCD69;
+}
+
+
+/* H1 */
+h1 {
+    font-family: 'Chelsea Market', cursive; 
+}
+
+/* Main */
+main {
+    background-color: #DDB9A3;
+}
+
+/* Span */
+span {
+    font-weight: bold !important;
+}
+
+/* Footer */
+footer {
+    background-color: #F9E7DC;
+}
